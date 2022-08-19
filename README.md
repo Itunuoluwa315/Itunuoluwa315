@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Itunuoluwa315
+- 👋 Hi, I’m @McSammy
 - 👀 I’m interested in web development and cyber security. 
 - 🌱 I’m currently learning cyber security 
 - 💞️ I’m looking to collaborate on web development, computer programming and cyber security. 
